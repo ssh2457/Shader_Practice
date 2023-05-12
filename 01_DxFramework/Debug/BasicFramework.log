@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ShaderFramework.cpp
+ShaderFramework.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  BasicFramework.vcxproj -> C:\Users\ssh24\Desktop\source (1)\01_DxFramework\Debug\BasicFramework.exe

@@ -1,0 +1,2 @@
+C:\Users\ssh24\Desktop\source (1)\02_ColorShader\Debug\BasicFramework.exe
+C:\Users\ssh24\Desktop\Shader_Practice\02_ColorShader\Debug\BasicFramework.exe
